@@ -1,0 +1,18 @@
+﻿nav {
+    background-color: #ffb3b3;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #cc0909;
+    text-align: center;
+}
+
+
+
+body {
+    width: 80px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
